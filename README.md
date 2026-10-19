@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Santiago | Multimedia Engineer & Game Dev 👋
 
-<!--
-**SbcInteractive/SbcInteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Game design & programming (Mechanics-AI-UI)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Core Tools
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/UE%20Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎮 Featured Systems & Projects
+
+* **Unreal Engine 5 - AI & Combat System:** Modular Third-Person combat, perception state machine, target lock-on mechanics, and debug line-trace hit detection.
+* **SummonerGG:** League of Legends statistics tracker utilizing Riot Games API.
+* **Mobile & Advergaming Titles:** UI & Systems development for projects including *Pull Ups Pixel*, *BitSpeed*, *Golf Hold*, *Self Explosive*, and *Color Dev*.
+
+---
+
+### 📫 Connect & Portfolio
+
+* **Instagram Portfolio:** https://www.instagram.com/sbcinteractive?mdxt=bzRibmlqOTR2cWZq
+* **Email:** santiago.beleno06@gmail.com
