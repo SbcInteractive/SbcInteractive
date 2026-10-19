@@ -1,10 +1,10 @@
-# Hi, I'm Santiago | Multimedia Engineer & Game Dev 👋
+# Hi, I'm Santiago | Multimedia Engineer & Game Dev 
 
 > Game design & programming (Mechanics-AI-UI)
 
 ---
 
-### 🛠️ Tech Stack & Core Tools
+### Tech Stack & Core Tools
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/UE%20Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-### 🎮 Featured Systems & Projects
+### Featured Systems & Projects
 
 * **Unreal Engine 5 - AI & Combat System:** Modular Third-Person combat, perception state machine, target lock-on mechanics, and debug line-trace hit detection.
 * **SummonerGG:** League of Legends statistics tracker utilizing Riot Games API.
@@ -23,7 +23,7 @@
 
 ---
 
-### 📫 Connect & Portfolio
+### Connect & Portfolio
 
 * **Instagram Portfolio:** https://www.instagram.com/sbcinteractive?mdxt=bzRibmlqOTR2cWZq
 * **Email:** santiago.beleno06@gmail.com
