@@ -18,7 +18,6 @@
 ### Featured Systems & Projects
 
 * **Unreal Engine 5 - AI & Combat System:** Modular Third-Person combat, perception state machine, target lock-on mechanics, and debug line-trace hit detection.
-* **SummonerGG:** League of Legends statistics tracker utilizing Riot Games API.
 * **Mobile & Advergaming Titles:** UI & Systems development for projects including *Pull Ups Pixel*, *BitSpeed*, *Golf Hold*, *Self Explosive*, and *Color Dev*.
 
 ---
